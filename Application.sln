@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company", "Company\Company.csproj", "{266AC3D7-67E9-4967-AB40-E44A31CA6355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerHelper", "LoggerHelper\LoggerHelper.csproj", "{03077B4B-2E2C-41C5-AF7D-580B30D5063D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Security", "Security\Security.csproj", "{9B8C7EB4-3962-424D-A045-A737348EAC8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{266AC3D7-67E9-4967-AB40-E44A31CA6355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{266AC3D7-67E9-4967-AB40-E44A31CA6355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{266AC3D7-67E9-4967-AB40-E44A31CA6355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{266AC3D7-67E9-4967-AB40-E44A31CA6355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03077B4B-2E2C-41C5-AF7D-580B30D5063D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03077B4B-2E2C-41C5-AF7D-580B30D5063D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03077B4B-2E2C-41C5-AF7D-580B30D5063D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03077B4B-2E2C-41C5-AF7D-580B30D5063D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B8C7EB4-3962-424D-A045-A737348EAC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B8C7EB4-3962-424D-A045-A737348EAC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B8C7EB4-3962-424D-A045-A737348EAC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B8C7EB4-3962-424D-A045-A737348EAC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55069477-F995-4334-9B14-F522DE737A4D}
+	EndGlobalSection
+EndGlobal

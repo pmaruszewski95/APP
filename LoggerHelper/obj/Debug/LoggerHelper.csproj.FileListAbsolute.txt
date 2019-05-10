@@ -1,0 +1,6 @@
+C:\Users\Piotr\source\repos\ClassLibrary2\LoggerHelper\bin\Debug\LoggerHelper.dll
+C:\Users\Piotr\source\repos\ClassLibrary2\LoggerHelper\bin\Debug\LoggerHelper.pdb
+C:\Users\Piotr\source\repos\ClassLibrary2\LoggerHelper\obj\Debug\LoggerHelper.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\ClassLibrary2\LoggerHelper\obj\Debug\LoggerHelper.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\ClassLibrary2\LoggerHelper\obj\Debug\LoggerHelper.dll
+C:\Users\Piotr\source\repos\ClassLibrary2\LoggerHelper\obj\Debug\LoggerHelper.pdb

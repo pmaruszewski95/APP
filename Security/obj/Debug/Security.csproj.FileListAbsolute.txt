@@ -1,0 +1,9 @@
+C:\Users\Piotr\source\repos\ClassLibrary2\Security\obj\Debug\Security.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\ClassLibrary2\Security\obj\Debug\Security.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\ClassLibrary2\Security\bin\Debug\Security.pdb
+C:\Users\Piotr\source\repos\ClassLibrary2\Security\bin\Debug\LoggerHelper.dll
+C:\Users\Piotr\source\repos\ClassLibrary2\Security\bin\Debug\LoggerHelper.pdb
+C:\Users\Piotr\source\repos\ClassLibrary2\Security\obj\Debug\Security.csproj.CopyComplete
+C:\Users\Piotr\source\repos\ClassLibrary2\Security\obj\Debug\Security.pdb
+C:\Users\Piotr\source\repos\ClassLibrary2\Security\bin\Debug\Security.exe
+C:\Users\Piotr\source\repos\ClassLibrary2\Security\obj\Debug\Security.exe
